@@ -15,7 +15,7 @@ export default function Weather(props) {
     <Circles
       height="80"
       width="80"
-      color="blue"
+      color="pink"
       ariaLabel="circles-loading"
       wrapperStyle={{}}
       wrapperClass=""
